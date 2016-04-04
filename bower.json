@@ -1,0 +1,19 @@
+{
+  "name": "mvvc",
+  "version": "1.0.0",
+  "description": "mvvc 实现",
+   "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "keywords": [
+    "YtInGUI",
+    "YtInG",
+    "ui",
+    "mobile"
+  ],
+  "authors": [
+    "Wright Liang <liang.hongbo@yahoo.com>"
+  ]
+}
